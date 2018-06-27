@@ -15,7 +15,13 @@
    /var/www/catalog/MyCatalog.wsgi
    /etc/apache2/sites-available/MyCatalog.conf
    
-5. Created user:
-   grader
+5. User and password:
+   grader/thisisapass
    
-6. Find the SSH Key in grader.pem
+6. Third-party resources used in this project:
+   firewall:
+   https://www.digitalocean.com/community/tutorials/how-to-setup-a-firewall-with-ufw-on-an-ubuntu-and-debian-cloud-server
+   flask:
+   http://flask.pocoo.org/docs/1.0/deploying/mod_wsgi/
+
+7. Find the SSH Key in grader.pem
